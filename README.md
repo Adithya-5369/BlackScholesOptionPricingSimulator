@@ -1,8 +1,8 @@
-# BlackScholesOptionPricingSimulator
+# Black Scholes Option Pricing Simulator
 
 ## Overview
 
-The **BlackScholesOptionPricingSimulator** is a Python-based simulator that calculates option prices using the **Black-Scholes model**. It provides a visual representation of how option prices (both call and put) are affected by volatility. The tool is designed for financial professionals, traders, and students to explore the effects of different parameters on option pricing.
+The **Black-Scholes Option Pricing Simulator** is a Python-based simulator that calculates option prices using the **Black-Scholes model**. It provides a visual representation of how option prices (both call and put) are affected by volatility. The tool is designed for financial professionals, traders, and students to explore the effects of different parameters on option pricing.
 
 ## Features
 
