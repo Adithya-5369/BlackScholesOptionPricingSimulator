@@ -4,12 +4,16 @@
 
 The **Black-Scholes Option Pricing Simulator** is a Python-based simulator that calculates option prices using the **Black-Scholes model**. It provides a visual representation of how option prices (both call and put) are affected by volatility. The tool is designed for financial professionals, traders, and students to explore the effects of different parameters on option pricing.
 
+---
+
 ## Features
 
 - **Black-Scholes Formula**: Calculate the price of European call and put options.
 - **Sensitivity Analysis**: Visualize how option prices change with varying volatility.
 - **Interactive Input**: Enter stock price, strike price, time to maturity, and risk-free interest rate.
 - **Visualization**: Graphically plot call and put option prices against volatility.
+
+---
 
 ## Requirements
 
@@ -25,6 +29,8 @@ Install the necessary Python libraries by running:
 pip install numpy matplotlib scipy
 ```
 
+---
+
 ## Installation
 
 1. Clone the repository:
@@ -37,6 +43,8 @@ pip install numpy matplotlib scipy
    ```bash
    pip install -r requirements.txt
    ```
+
+---
 
 ## Usage
 
@@ -54,6 +62,8 @@ pip install numpy matplotlib scipy
 
 3. The tool will calculate the option prices for call and put options and display a graph showing the sensitivity of option prices to varying volatility.
 
+---
+
 ## File Structure
 
 ```
@@ -63,6 +73,13 @@ BlackScholesOptionPricingSimulator/
 ├── requirements.txt            # Python dependencies
 └── README.md                   # Project documentation
 ```
+
+---
+
+## 🛡 License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this code with attribution.
 
 ---
 
